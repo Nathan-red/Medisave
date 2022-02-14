@@ -1,4 +1,4 @@
-## Patience - Your Healthcare Navigator
+## Medisave.. - Your Healthcare Navigator
 
 A tool that help patients navigate nearby healthcare services, and to rate these services so as to help improve the health care system.
 
