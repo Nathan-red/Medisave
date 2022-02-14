@@ -3,45 +3,6 @@
 A tool that help patients navigate nearby healthcare services, and to rate these services so as to help improve the health care system.
 
 
-
-
-```bash
-git clone https://github.com/leilanihagen/patience-healthcare-navigator.git
-cd patience-healthcare-navigator
-```
-
-Using ssh:
-
-```bash
-git clone https://github.com/leilanihagen/patience-healthcare-navigator.git
-cd patience-healthcare-navigator
-```
-
-
-
-```bash
-flutter clean
-flutter pub get
-```
-
-
-```
-
-
-```bash
-flutter run --release
-```
-
-
-
-
-
-
-
-
-
-
-
 ## Features
 
 To accomplish the above goals, we have implemented the following features:
